@@ -1,4 +1,4 @@
-<h1 align="center">kael-0x 🧠⚔️</h1>
+<h1 align="center">🧠 kael-0x ⚔️</h1>
 <p align="center">
   <i>"I break boxes, grab flags and dream in binary."</i>
 </p>
